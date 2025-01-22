@@ -2,6 +2,7 @@
 
 # Airline Database Capstone Project 🛫
 
+https://github.com/Anandy01/SQL-Project_1/blob/main/AirlineDB%20Schema.pdf
 This repository showcases SQL queries and supporting scripts developed for an Airline Database Capstone project. The aim of this project is to tackle real-world issues through SQL queries related to seat allocation, flight schedules, and passenger information.
 
 ## Project Overview 🪟
